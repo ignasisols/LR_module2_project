@@ -9,7 +9,6 @@ I plan to obtain most of the data from IMDb (or, alternatively, Box Office Mojo)
 
 - **What is an individual sample/unit of analysis in this project? What characteristics/features do you expect to work with?**
 The individual sample/unit of analysis in this project will be a given movie. I plan to scrap data from the top 500 movies of 2018, 2019, and 2021 - a total of 1500 movies  (but this should be discussed given that there would be a different number of movies pre-and post- covid). I am planning to work with features as genre, budget, production companies, runtime, number of reviews, number of awards, number of user reviews, number of critic reviews, Metascore, scores for the quality of the actors and, if possible, scores for directors and screen writers. 
-- 
 
 #### Tools:
 - **How do you intend to meet the tools requirement of the project?**

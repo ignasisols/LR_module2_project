@@ -16,7 +16,7 @@ For the specific question in hand, I have done a preliminary analysis with the f
 
 And a  heatmap: 
 
-![plot 1](https://github.com/ignasisols/LR_module2_project/blob/main/pairplot_1.png)
+![plot 1](https://github.com/ignasisols/LR_module2_project/blob/main/heatmap_1.png)
 
 I have dealt with the NaN values in the budget column by replacing them with the average budget across all movies.
 

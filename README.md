@@ -1,4 +1,4 @@
-# Predicting gross worldwide box office revenue for movies produced in the US:
+# Predicting gross worldwide box office revenue for movies produced in the US
 
   Ignasi Sols 
 
